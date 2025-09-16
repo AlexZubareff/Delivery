@@ -134,7 +134,7 @@ body {
   margin-bottom: 56px;
 }
 .banner-item {
-  background-image: url(./img/banners/banner-img.png);
+  background-image: url(../img/banners/banner-img.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center right;
@@ -270,7 +270,7 @@ body {
   gap: 25px;
 }
 
-.products-card__desc-info--raiting {
+.products-card__desc-info--rating {
   color: rgba(255, 193, 7, 1);
   font-size: 18px;
   font-weight: 700;
